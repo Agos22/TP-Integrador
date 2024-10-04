@@ -84,3 +84,22 @@ button {
 button:hover {
     background-color: #4c7cff;
 }
+footer {
+    background-color: #4CAF50; 
+    color: white;            /* Color del texto */
+    text-align: center;      /* Alineación del texto */
+    padding: 20px;          /* Espaciado interno */
+}
+
+.footer-content p {
+    margin: 5px 0;  /* Margen para los párrafos */
+}
+
+.social-media a {
+    margin: 0 10px;  /* Espaciado entre íconos */
+}
+
+.social-media img {
+    width: 30px;      /* Ancho y alto del ícono */
+    height: 30px;     
+}
